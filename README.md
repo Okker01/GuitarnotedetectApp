@@ -73,12 +73,15 @@ dev_dependencies:
 - **`record`**: Provides real-time audio streaming capabilities
 - **Built-in Flutter**: Uses Flutter's native state management and UI components
 
-## 🚀 Installation
+## 🚀 Installation 
+
+### **For better usage**
+# Just Create New Flutter Project In your computer and copy the code from main.dart and pubspec.xml ( these two are very important ... I have created everything in that two files )
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/guitar-note-detector-pro.git
-cd guitar-note-detector-pro
+git clone https://github.com/Okker01/GuitarnotedetectApp
+cd GuitarnotedetectApp
 ```
 
 ### 2️⃣ **Install Dependencies**
